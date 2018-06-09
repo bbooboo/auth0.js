@@ -28,6 +28,7 @@ dist
 .gitignore
 coverage
 test-results.xml
+.nyc_output
 
 .idea/
 
